@@ -6,7 +6,7 @@ var bio = {
 		"mobile": "(647) 638-4572",
 		"eMail": "g.knayzeh@gmail.com",
 		"twitter": "g7twtr",
-		"githubURL": "https://github.com/Xassassin",
+		"githubURL": "https://xassassin.github.io",
 		"blogURL": "http://gknayzeh.com",
 		"location": "Mississauga, ON"
 
